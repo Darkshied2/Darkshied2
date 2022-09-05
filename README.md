@@ -47,5 +47,5 @@
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
-![](https://komarev.com/ghpvc/?username=codingvivek&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Darkshied2&label=Visitors+Count&color=brightgreen)
 </div>
