@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h3 align="center">
   Welcome to Darkshied2 profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -14,11 +14,9 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : https://github.com/Darkshied2
   
-🌱 I’m currently learning : JavaScript
+🌱 I’m currently learning : **Machine Learning,Data Science**
 
   👯 I’m looking to collaborate on my webpage
-
-  🤔 I’m Not looking for help
 
   💬 Ask me about for any help
 
